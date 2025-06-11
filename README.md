@@ -31,3 +31,6 @@ Este é um projeto feito por fãs e sem fins lucrativos. Não possui qualquer v�
 Bernardo da Silva Neuls
 
 RA: 1138654
+
+Testador do jogo: Guilherme Menzen
+Ra: 1137973
